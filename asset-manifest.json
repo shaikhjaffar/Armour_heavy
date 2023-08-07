@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Armour_heavy/static/css/main.b4b4cb4e.css",
-    "main.js": "/Armour_heavy/static/js/main.0a4f6498.js",
+    "main.css": "/Armour_heavy/static/css/main.526e926e.css",
+    "main.js": "/Armour_heavy/static/js/main.3d2aa2c1.js",
     "static/js/787.48043b61.chunk.js": "/Armour_heavy/static/js/787.48043b61.chunk.js",
     "static/media/gif": "/Armour_heavy/static/media/5a4ea855080f94d8fdaaf3b2f624d3d0.ab5d904d3c3dda966461.gif",
     "static/media/AH_Cloth_gif0001-0363.gif": "/Armour_heavy/static/media/AH_Cloth_gif0001-0363.cd4b7051b0aad9e20ff9.gif",
@@ -29,12 +29,12 @@
     "static/media/better_2.png": "/Armour_heavy/static/media/better_2.a3e9472f7b8377a89081.png",
     "static/media/RedHatDisplay-Light.ttf": "/Armour_heavy/static/media/RedHatDisplay-Light.f5b5e64292425f3c6ac8.ttf",
     "index.html": "/Armour_heavy/index.html",
-    "main.b4b4cb4e.css.map": "/Armour_heavy/static/css/main.b4b4cb4e.css.map",
-    "main.0a4f6498.js.map": "/Armour_heavy/static/js/main.0a4f6498.js.map",
+    "main.526e926e.css.map": "/Armour_heavy/static/css/main.526e926e.css.map",
+    "main.3d2aa2c1.js.map": "/Armour_heavy/static/js/main.3d2aa2c1.js.map",
     "787.48043b61.chunk.js.map": "/Armour_heavy/static/js/787.48043b61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4b4cb4e.css",
-    "static/js/main.0a4f6498.js"
+    "static/css/main.526e926e.css",
+    "static/js/main.3d2aa2c1.js"
   ]
 }
