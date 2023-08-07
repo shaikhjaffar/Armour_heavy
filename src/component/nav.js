@@ -1,4 +1,5 @@
 import React from 'react'
+import Hamburger from './hamburgerMenu'
 
 export default function Nav() {
   return (
@@ -10,6 +11,7 @@ export default function Nav() {
         <li>WOMEN</li>
         <li>ARMOUR ADVANTAGE</li>
        </ul>
+       <Hamburger/>
        <div className='logo_container'>
        <span>ARMOUR HEAVY</span>
        </div>
